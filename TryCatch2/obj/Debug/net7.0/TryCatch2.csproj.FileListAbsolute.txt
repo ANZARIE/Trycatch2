@@ -1,0 +1,14 @@
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab3\TryCatch2\obj\Debug\net7.0\TryCatch2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab3\TryCatch2\obj\Debug\net7.0\TryCatch2.AssemblyInfoInputs.cache
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab3\TryCatch2\obj\Debug\net7.0\TryCatch2.AssemblyInfo.cs
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab3\TryCatch2\obj\Debug\net7.0\TryCatch2.csproj.CoreCompileInputs.cache
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab3\TryCatch2\bin\Debug\net7.0\TryCatch2.exe
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab3\TryCatch2\bin\Debug\net7.0\TryCatch2.deps.json
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab3\TryCatch2\bin\Debug\net7.0\TryCatch2.runtimeconfig.json
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab3\TryCatch2\bin\Debug\net7.0\TryCatch2.dll
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab3\TryCatch2\bin\Debug\net7.0\TryCatch2.pdb
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab3\TryCatch2\obj\Debug\net7.0\TryCatch2.dll
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab3\TryCatch2\obj\Debug\net7.0\refint\TryCatch2.dll
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab3\TryCatch2\obj\Debug\net7.0\TryCatch2.pdb
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab3\TryCatch2\obj\Debug\net7.0\TryCatch2.genruntimeconfig.cache
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab3\TryCatch2\obj\Debug\net7.0\ref\TryCatch2.dll
